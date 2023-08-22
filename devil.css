@@ -1,0 +1,19 @@
+h1{
+    color: aqua;
+    background-color: blue;
+    width: 50%;
+    
+}
+h2{
+    color: darkmagenta;
+    text-align: center;
+}
+#devil{
+    text-align: center;
+    color: rgb(255, 0, 212);
+    width: 100%;
+    background-color: aqua;
+}
+body{
+    background-color: rgb(220, 193, 20);
+}
